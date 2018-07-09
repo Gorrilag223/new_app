@@ -8,7 +8,7 @@
 4. Export flask variables.
 5. Launch the App.
 
-# Step to use the App
+# Steps to use the App
 
 1. Register as a user.
 2. Upload and compress user image keeping EXIF metadata of image.
